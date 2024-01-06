@@ -1,0 +1,47 @@
+[
+  {
+    "id": "419",
+    "product_name": "sunt",
+    "company_name": "Duarte e Filhos",
+    "manufacturing_date": "2023-11-09",
+    "expiration_date": "2045-12-24",
+    "serial_number": "N973 NX9D 3104 3UKN B720 TTYG FA5V",
+    "storage_instructions": "Possimus harum sint consequatur. Eligendi nesciunt repellat quo. Rerum repellendus perspiciatis qui voluptas hic pariatur."
+  },
+  {
+    "id": "2495",
+    "product_name": "quisquam",
+    "company_name": "Duarte e Filhos",
+    "manufacturing_date": "2023-01-04",
+    "expiration_date": "2068-11-08",
+    "serial_number": "NL87 F26W 6365 1P4A F3Z6 0KD1 702O",
+    "storage_instructions": "Quam praesentium quas fugiat sunt nulla harum. Corrupti eum voluptatum velit. Iusto voluptates beatae ducimus."
+  },
+  {
+    "id": "8128",
+    "product_name": "esse",
+    "company_name": "Duarte e Filhos",
+    "manufacturing_date": "2023-09-09",
+    "expiration_date": "2085-05-24",
+    "serial_number": "GA34 VG05 2877 7CAI S5E0 FH2K B24H",
+    "storage_instructions": "Nam animi architecto repellat omnis. Rerum cupiditate fugit ducimus eius illum delectus. Distinctio est repudiandae eaque sequi."
+  },
+  {
+    "id": "2014",
+    "product_name": "doloremque",
+    "company_name": "Correia",
+    "manufacturing_date": "2023-10-25",
+    "expiration_date": "2023-12-07",
+    "serial_number": "G633 YEAU 9499 3RJJ M6N3 6V89 YS1K",
+    "storage_instructions": "Autem consectetur aliquam fugiat officia alias. Sunt odio magni qui earum quisquam architecto occaecati. Vel reiciendis eos ex."
+  },
+  {
+    "id": "705",
+    "product_name": "neque",
+    "company_name": "da Luz S.A.",
+    "manufacturing_date": "2022-12-05",
+    "expiration_date": "2038-05-25",
+    "serial_number": "YU98 4GGQ 0307 70UW X3C2 W7LL GO26",
+    "storage_instructions": "Libero similique illo voluptates labore exercitationem. Ratione distinctio ullam impedit quod."
+  }
+]
